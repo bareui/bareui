@@ -8,6 +8,7 @@ Simply place bare.css in the same folder as your index.html, and link to it with
 ```
 <link rel="stylesheet" type="text/css" href="bare.css">
 ```
+You could also use the pre made index.html in this repository!
 
 Also, be sure to import the font Raleway from Google Fonts in your index.html <head> tag if you dont have your own font to use.
 ```
