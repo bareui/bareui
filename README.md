@@ -33,4 +33,4 @@ Also, be sure to import the font Raleway from Google Fonts in your index.html <h
 
 Bare heavily refrences the Skeleton project. http://getskeleton.com
 
-Also, https://github.com/nathansmith/unsemantic
+Also, unsemantic: https://github.com/nathansmith/unsemantic
