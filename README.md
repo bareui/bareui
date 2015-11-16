@@ -28,3 +28,7 @@ Also, be sure to import the font Raleway from Google Fonts in your index.html <h
 ```
 <input class="u-full-width" type="input" placeholder="Type Something Here" id="exampleInput">
 ```
+
+<hr>
+
+Bare heavily refrences the Skeleton project. http://getskeleton.com
