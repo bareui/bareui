@@ -1,4 +1,4 @@
-## Bare UI
+### Bare UI
 
 [![Code Climate](https://codeclimate.com/github/bareui/bareui/badges/gpa.svg)](https://codeclimate.com/github/bareui/bareui)
 [![Test Coverage](https://codeclimate.com/github/bareui/bareui/badges/coverage.svg)](https://codeclimate.com/github/bareui/bareui/coverage)
@@ -17,14 +17,14 @@ Also, be sure to import the font Raleway from Google Fonts in your index.html <h
 ```
 
 
-## Usable Elements
+### Usable Elements
 
-#### Buttons
+##### Buttons
 ```
 <a class="button button-primary" href="#">A Button!</a>
 ```
 
-#### Inputs
+##### Inputs
 ```
 <input class="u-full-width" type="input" placeholder="Type Something Here" id="exampleInput">
 ```
